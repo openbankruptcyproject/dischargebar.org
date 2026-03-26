@@ -1,0 +1,16 @@
+{
+  "name": "Bankruptcy Discharge Bars -- When You Can't File Again",
+  "short_name": "dischargebar.org",
+  "description": "Free guide to bankruptcy discharge bars under Sections 727(a)(8), 727(a)(9), and 1328(f). Learn the waiting periods between bankruptcy filings and when you're eligible to file again.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
