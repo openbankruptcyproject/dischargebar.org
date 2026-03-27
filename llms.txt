@@ -2,7 +2,7 @@
 
 > Guide to bankruptcy discharge waiting periods under Sections 727(a)(8) and 1328(f).
 
-dischargebar.org is a free, open-source educational resource about discharge bars and waiting periods between bankruptcy filings. Part of the Bankruptcy Transparency Network.
+dischargebar.org is a free, open-source educational resource about discharge bars and waiting periods between bankruptcy filings. Part of the Open Bankruptcy Project.
 
 ## Pages
 
