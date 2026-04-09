@@ -1,16 +1,26 @@
-# dischargebar.org
+# Bankruptcy Discharge Bars -- When You Can't Get Relief [2026]
+> What blocks a bankruptcy discharge? Prior filings, fraud, concealment, and bad faith under Sections 727 and 1328. Check your eligibility -- free 2026 guide.
 
-> Guide to bankruptcy discharge waiting periods under Sections 727(a)(8) and 1328(f).
+## About
+dischargebar.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-dischargebar.org is a free, open-source educational resource about discharge bars and waiting periods between bankruptcy filings. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://dischargebar.org/: Overview of all discharge waiting periods -- when you can file again
-- https://dischargebar.org/chapter-7-discharge.html: Chapter 7 discharge bar -- the 8-year rule under 727(a)(8)
-- https://dischargebar.org/chapter-13-discharge.html: Chapter 13 discharge bar -- waiting periods under 1328(f)
-- https://dischargebar.org/nondischargeable-debts.html: Debts that survive discharge regardless of waiting periods
+## Key Pages
+- All Bankruptcy Discharge Bars Timing Chart: https://dischargebar.org/all-bars-chart.html
+- Discharge Bar Calculator -- When Can I File Again?: https://dischargebar.org/calculator.html
+- Chapter 13 Discharge: Completing Your Plan -- Discharge Bar: https://dischargebar.org/chapter-13-discharge.html
+- Chapter 13 to Chapter 13 -- The 2-Year Discharge Bar: https://dischargebar.org/chapter-13-to-13.html
+- Chapter 13 Then Chapter 7 -- The 6-Year Discharge Bar: https://dischargebar.org/chapter-13-to-7.html
+- Chapter 7 Discharge: Timeline and What Gets Eliminated -- Discharge Bar: https://dischargebar.org/chapter-7-discharge.html
+- Chapter 7 Then Chapter 13 -- The 4-Year Discharge Bar: https://dischargebar.org/chapter-7-to-13.html
+- Chapter 7 to Chapter 7 -- The 8-Year Discharge Bar: https://dischargebar.org/chapter-7-to-7.html
+- Bankruptcy Discharge Bars -- When You Can't Get Relief: https://dischargebar.org/
+- Debts That Survive Bankruptcy: The Complete List -- Discharge Bar: https://dischargebar.org/nondischargeable-debts.html
+- Discharge Bar FAQ -- Waiting Periods Between Bankruptcy Filings: https://dischargebar.org/frequently-asked-questions.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
