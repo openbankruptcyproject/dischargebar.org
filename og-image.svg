@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0d1117"/>
+  <!-- Barrier/gate accent -->
+  <g transform="translate(600,100)" fill="none" stroke="#f85149" stroke-width="2.5">
+    <line x1="-30" y1="-15" x2="30" y2="-15"/>
+    <line x1="-30" y1="-15" x2="-30" y2="20"/>
+    <line x1="30" y1="-15" x2="30" y2="20"/>
+    <line x1="-30" y1="0" x2="30" y2="0" stroke="#58a6ff" stroke-dasharray="6,4"/>
+    <circle cx="-30" cy="-15" r="3" fill="#f85149"/>
+  </g>
+  <text x="600" y="230" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="52" font-weight="bold" fill="#e6edf3">Discharge Bar</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#58a6ff">When Bankruptcy Discharge Is Denied or Barred</text>
+  <rect x="250" y="320" width="700" height="2" fill="#30363d"/>
+  <text x="600" y="380" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#7d8590">727(a) -- 1328(f) -- Timing Rules -- Objections</text>
+  <text x="600" y="560" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#484f58">Open Bankruptcy Project</text>
+  <text x="600" y="585" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#484f58">dischargebar.org</text>
+</svg>
