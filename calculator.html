@@ -16,18 +16,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Discharge Bar Calculator -- When Can I File Again?</title>
+<title>Discharge Bar Calculator - When Can I File Again?</title>
 <meta name="description" content="Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.">
 <meta name="keywords" content="discharge bar calculator, when can I file again, bankruptcy eligibility date, filing date calculator">
 <link rel="canonical" href="https://dischargebar.org/calculator.html">
 
-<meta property="og:title" content="Discharge Bar Calculator -- When Can I File Again?">
+<meta property="og:title" content="Discharge Bar Calculator - When Can I File Again?">
 <meta property="og:description" content="Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://dischargebar.org/calculator.html">
 <meta property="og:site_name" content="dischargebar.org">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Discharge Bar Calculator -- When Can I File Again?">
+<meta name="twitter:title" content="Discharge Bar Calculator - When Can I File Again?">
 <meta name="twitter:description" content="Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.">
 <meta property="og:image" content="/og-image.svg">
 <meta name="twitter:image" content="/og-image.svg">
@@ -51,7 +51,7 @@
     {"@type": "Question", "name": "When can I file bankruptcy again after a discharge?",
      "acceptedAnswer": {"@type": "Answer", "text": "It depends on which chapter you filed and which chapter you want to file next. The waiting periods range from 2 years (Ch.13 to Ch.13) to 8 years (Ch.7 to Ch.7), measured from filing date to filing date."}},
     {"@type": "Question", "name": "Is the waiting period measured from the discharge date?",
-     "acceptedAnswer": {"@type": "Answer", "text": "No. All discharge bars are measured from the filing date of the prior case to the filing date of the new case -- not from the date the discharge was entered."}},
+     "acceptedAnswer": {"@type": "Answer", "text": "No. All discharge bars are measured from the filing date of the prior case to the filing date of the new case - not from the date the discharge was entered."}},
     {"@type": "Question", "name": "Can I file again if my case was dismissed?",
      "acceptedAnswer": {"@type": "Answer", "text": "Yes. Discharge bars only apply when you received a discharge. If your case was dismissed, you may face a 180-day filing bar under Section 109(g) instead."}}
   ]
@@ -213,7 +213,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Discharge Bar Calculator -- When Can I File Again?",
+  "name": "Discharge Bar Calculator - When Can I File Again?",
   "description": "Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.",
   "url": "https://dischargebar.org/calculator.html",
   "applicationCategory": "FinanceApplication",
@@ -282,8 +282,8 @@
       <label for="prior-discharge" style="display:block;color:var(--text-muted);font-size:0.9rem;margin-bottom:0.25rem">Did you receive a discharge?</label>
       <select id="prior-discharge" style="background:#21262d;border:1px solid var(--border);color:var(--text);padding:0.5rem 0.75rem;border-radius:6px;font-size:1rem;width:100%;max-width:300px">
         <option value="">Select...</option>
-        <option value="yes">Yes -- received discharge</option>
-        <option value="no">No -- case was dismissed</option>
+        <option value="yes">Yes - received discharge</option>
+        <option value="no">No - case was dismissed</option>
       </select>
     </div>
 
@@ -332,15 +332,15 @@
         var ch7date = addYears(filed, 8);
         var ch13date = addYears(filed, 4);
         html += '<table style="width:100%;border-collapse:collapse;font-size:0.95rem">';
-        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 7 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">727(a)(8) -- 8 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch7date) + '</td></tr>';
-        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 13 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">1328(f)(1) -- 4 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch13date) + '</td></tr>';
+        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 7 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">727(a)(8) - 8 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch7date) + '</td></tr>';
+        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 13 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">1328(f)(1) - 4 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch13date) + '</td></tr>';
         html += '</table>';
       } else {
         var ch7date = addYears(filed, 6);
         var ch13date = addYears(filed, 2);
         html += '<table style="width:100%;border-collapse:collapse;font-size:0.95rem">';
-        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 7 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">727(a)(9) -- 6 years*</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch7date) + '</td></tr>';
-        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 13 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">1328(f)(2) -- 2 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch13date) + '</td></tr>';
+        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 7 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">727(a)(9) - 6 years*</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch7date) + '</td></tr>';
+        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 13 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">1328(f)(2) - 2 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch13date) + '</td></tr>';
         html += '</table>';
         html += '<p style="color:var(--text-muted);font-size:0.85rem;margin-top:0.75rem">*The 6-year bar under 727(a)(9) has exceptions: it does not apply if you paid 70%+ of unsecured claims, or if the plan was proposed in good faith and was your best effort. <a href="/chapter-13-to-7.html">Learn more</a>.</p>';
       }
@@ -355,13 +355,13 @@
     <h2>How This Calculator Works</h2>
     <p>This calculator applies the discharge bar provisions of the Bankruptcy Code:</p>
     <ul>
-      <li><strong><a href="https://727a8.com/" title="Section 727(a)(8)">Section 727(a)(8)</a></strong> -- 8-year bar: Chapter 7 to Chapter 7</li>
-      <li><strong>Section 727(a)(9)</strong> -- 6-year bar: Chapter 13 to Chapter 7 (with exceptions)</li>
-      <li><strong><a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a>(1)</strong> -- 4-year bar: Chapter 7 to Chapter 13</li>
-      <li><strong>Section 1328(f)(2)</strong> -- 2-year bar: Chapter 13 to Chapter 13</li>
-      <li><strong><a href="https://109g.org/" title="Section 109(g)">Section 109(g)</a></strong> -- 180-day filing bar after certain dismissals</li>
+      <li><strong><a href="https://727a8.com/" title="Section 727(a)(8)">Section 727(a)(8)</a></strong> - 8-year bar: Chapter 7 to Chapter 7</li>
+      <li><strong>Section 727(a)(9)</strong> - 6-year bar: Chapter 13 to Chapter 7 (with exceptions)</li>
+      <li><strong><a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a>(1)</strong> - 4-year bar: Chapter 7 to Chapter 13</li>
+      <li><strong>Section 1328(f)(2)</strong> - 2-year bar: Chapter 13 to Chapter 13</li>
+      <li><strong><a href="https://109g.org/" title="Section 109(g)">Section 109(g)</a></strong> - 180-day filing bar after certain dismissals</li>
     </ul>
-    <p>All periods are measured from <strong>filing date to filing date</strong>. This calculator runs entirely in your browser -- no data is sent to any server.</p>
+    <p>All periods are measured from <strong>filing date to filing date</strong>. This calculator runs entirely in your browser - no data is sent to any server.</p>
   </div>
 
   <div class="cta-box">
@@ -384,10 +384,10 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
     <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.com" style="color:#58a6ff">1328f.com</a> -- Full discharge eligibility screener with case lookup</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://727a8.com" style="color:#58a6ff">727a8.com</a> -- Chapter 7 discharge bar deep dive</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1328.org" style="color:#58a6ff">section1328.org</a> -- Chapter 13 discharge rules</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://109g.org" style="color:#58a6ff">109g.org</a> -- The 180-day filing bar</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.com" style="color:#58a6ff">1328f.com</a> - Full discharge eligibility screener with case lookup</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://727a8.com" style="color:#58a6ff">727a8.com</a> - Chapter 7 discharge bar deep dive</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1328.org" style="color:#58a6ff">section1328.org</a> - Chapter 13 discharge rules</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://109g.org" style="color:#58a6ff">109g.org</a> - The 180-day filing bar</p>
   </div>
 
 
@@ -406,11 +406,11 @@
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
   <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
-  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy discharge and <a href="https://nondischargeable.org" title="Nondischargeable Debts -- Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> debts:</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy discharge and <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> debts:</p>
   <ul style="list-style:none;padding:0;margin:0">
-    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/523" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 523</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII -- exceptions to discharge</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/524" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 524</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII -- discharge injunction</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/727" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 727</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII -- grounds for denying discharge</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/523" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 523</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - exceptions to discharge</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/524" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 524</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - discharge injunction</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/727" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 727</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - grounds for denying discharge</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics/discharge-bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Discharge in Bankruptcy</a><br><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/will-bankruptcy-get-rid-of-all-my-debts-en-1937/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">CFPB: What Debts Are Discharged?</a><br><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Find Free Legal Aid</a><br><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
@@ -490,7 +490,7 @@
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:700px;margin:2rem auto">
 <p style="color:#9eaab6;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.25rem">Federal Rules Committee</p>
 <p style="color:#e6edf3;font-size:0.95rem;margin-bottom:0.25rem">This research supports <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" style="color:#58a6ff">Suggestion 26-BK-3</a> to the Advisory Committee on Bankruptcy Rules</p>
-<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://section1328.org" title="Section 1328 Discharge -- Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(f) discharge bar screening in federal bankruptcy courts</p>
+<p style="color:#9eaab6;font-size:0.8rem;margin:0">Proposing automated <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(f) discharge bar screening in federal bankruptcy courts</p>
 </div>
 <div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
 <script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
