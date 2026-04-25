@@ -16,19 +16,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Discharge Bar Calculator - When Can I File Again?</title>
-<meta name="description" content="Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.">
-<meta name="keywords" content="discharge bar calculator, when can I file again, bankruptcy eligibility date, filing date calculator">
-<link rel="canonical" href="https://dischargebar.org/calculator.html">
+<title>Chapter 13 Then Chapter 7 - The 6-Year Discharge Bar</title>
+<meta name="description" content="Learn about chapter 13 then chapter 7 - the 6-year discharge bar | dischargebar.org in our free 2026 guide.">
+<meta name="keywords" content="chapter 13 then chapter 7, 6 year bar, 727(a)(9), 70 percent plan, good faith exception">
+<link rel="canonical" href="https://dischargebar.org/chapter-13-to-7.html">
 
-<meta property="og:title" content="Discharge Bar Calculator - When Can I File Again?">
-<meta property="og:description" content="Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.">
+<meta property="og:title" content="Chapter 13 Then Chapter 7 - The 6-Year Discharge Bar">
+<meta property="og:description" content="Learn about chapter 13 then chapter 7 - the 6-year discharge bar | dischargebar.org in our free 2026 guide.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://dischargebar.org/calculator.html">
+<meta property="og:url" content="https://dischargebar.org/chapter-13-to-7.html">
 <meta property="og:site_name" content="dischargebar.org">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Discharge Bar Calculator - When Can I File Again?">
-<meta name="twitter:description" content="Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.">
+<meta name="twitter:title" content="Chapter 13 Then Chapter 7 - The 6-Year Discharge Bar">
+<meta name="twitter:description" content="Learn about chapter 13 then chapter 7 - the 6-year discharge bar | dischargebar.org in our free 2026 guide.">
 <meta property="og:image" content="/og-image.svg">
 <meta name="twitter:image" content="/og-image.svg">
 
@@ -48,12 +48,12 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "When can I file bankruptcy again after a discharge?",
-     "acceptedAnswer": {"@type": "Answer", "text": "It depends on which chapter you filed and which chapter you want to file next. The waiting periods range from 2 years (Ch.13 to Ch.13) to 8 years (Ch.7 to Ch.7), measured from filing date to filing date."}},
-    {"@type": "Question", "name": "Is the waiting period measured from the discharge date?",
-     "acceptedAnswer": {"@type": "Answer", "text": "No. All discharge bars are measured from the filing date of the prior case to the filing date of the new case - not from the date the discharge was entered."}},
-    {"@type": "Question", "name": "Can I file again if my case was dismissed?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Yes. Discharge bars only apply when you received a discharge. If your case was dismissed, you may face a 180-day filing bar under Section 109(g) instead."}}
+    {"@type": "Question", "name": "Can I file Chapter 7 after completing a Chapter 13?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Yes, but Section 727(a)(9) imposes a 6-year bar unless you paid at least 70% of unsecured claims or the plan was proposed in good faith and was your best effort."}},
+    {"@type": "Question", "name": "What is the 70% exception to the 6-year bar?",
+     "acceptedAnswer": {"@type": "Answer", "text": "If your Chapter 13 plan paid at least 70% of allowed unsecured claims, the 6-year bar under 727(a)(9) does not apply, and you can file Chapter 7 at any time."}},
+    {"@type": "Question", "name": "Is filing Chapter 13 again easier than filing Chapter 7 after Chapter 13?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Often yes. The Chapter 13 to Chapter 13 bar is only 2 years with no exceptions needed, compared to 6 years (with exceptions) for Chapter 13 to Chapter 7."}}
   ]
 }
 </script>
@@ -63,8 +63,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Discharge Bar Calculator",
-      "description": "Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.",
+      "headline": "Chapter 13 Then Chapter 7 - The 6-Year Bar",
+      "description": "Section 727(a)(9) imposes a 6-year bar on Chapter 7 discharges after a Chapter 13 discharge, with exceptions for 70% plans and good faith filings.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -76,7 +76,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://dischargebar.org/calculator.html"
+      "mainEntityOfPage": "https://dischargebar.org/chapter-13-to-7.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -96,15 +96,15 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Discharge Bar Calculator",
-          "item": "https://dischargebar.org/calculator.html"
+          "name": "Chapter 13 Then Chapter 7 - The 6-Year Bar",
+          "item": "https://dischargebar.org/chapter-13-to-7.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Discharge Bar Calculator",
-      "url": "https://dischargebar.org/calculator.html",
+      "name": "Chapter 13 Then Chapter 7 - The 6-Year Bar",
+      "url": "https://dischargebar.org/chapter-13-to-7.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -207,50 +207,8 @@
   }
 </style>
 
-<link rel="alternate" hreflang="en" href="https://dischargebar.org/calculator.html">
-<link rel="alternate" hreflang="es" href="https://dischargebar.org/calculator-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Discharge Bar Calculator - When Can I File Again?",
-  "description": "Free interactive calculator. Enter your prior filing date and chapter to find your earliest eligible date for a new bankruptcy discharge.",
-  "url": "https://dischargebar.org/calculator.html",
-  "applicationCategory": "FinanceApplication",
-  "operatingSystem": "Any",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  },
-  "provider": {
-    "@type": "Organization",
-    "name": "Open Bankruptcy Project",
-    "url": "https://openbankruptcyproject.org"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://dischargebar.org/chapter-13-to-7.html">
+<link rel="alternate" hreflang="es" href="https://dischargebar.org/chapter-13-to-7-es.html">
 </head>
 <body>
 
@@ -265,132 +223,71 @@
     <a href="/chapter-7-to-7.html">Ch.7 to Ch.7</a>
     <a href="/chapter-7-to-13.html">Ch.7 to Ch.13</a>
     <a href="/chapter-13-to-13.html">Ch.13 to Ch.13</a>
-    <a href="/chapter-13-to-7.html">Ch.13 to Ch.7</a>
-    <a href="/calculator.html" class="active">Calculator</a>
+    <a href="/chapter-13-to-7.html" class="active">Ch.13 to Ch.7</a>
+    <a href="/calculator.html">Calculator</a>
   </div>
 </nav>
 
 <header>
-  <h1><span class="accent">Discharge Bar</span> Calculator</h1>
-  <p class="subtitle">When can you file again? Enter your prior case details to find out.</p>
+  <h1>Chapter 13 Then Chapter 7 - The <span class="accent">6-Year</span> Bar</h1>
+  <p class="subtitle">Section 727(a)(9) - a bar with important exceptions</p>
 </header>
 
 <div class="breadcrumb" aria-label="Breadcrumb">
-  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Discharge Bars</a> &rsaquo; Calculator
+  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Discharge Bars</a> &rsaquo; Ch.13 to Ch.7
 </div>
 
 <main id="main-content">
 
   <div class="content-section">
-    <h2>Calculate Your Earliest Eligible Date</h2>
-    <p>Enter the details of your most recent bankruptcy case to see when you become eligible for a new <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> under each chapter.</p>
+    <h2>The 727(a)(9) Bar Explained</h2>
+    <p><a href="https://727a8.com" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 727</a>(a)(9) prevents a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> if the debtor received a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> in a prior <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> case filed within 6 years before the current <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> filing - unless one of two exceptions applies.</p>
+    <p>This is the only discharge bar with built-in exceptions. Congress recognized that <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> debtors who made a genuine effort to repay creditors should not be penalized as heavily as Chapter 7 debtors who paid nothing.</p>
+  </div>
 
-    <div style="margin:1.5rem 0">
-      <label for="prior-date" style="display:block;color:var(--text-muted);font-size:0.9rem;margin-bottom:0.25rem">Prior case filing date:</label>
-      <input type="date" id="prior-date" style="background:#21262d;border:1px solid var(--border);color:var(--text);padding:0.5rem 0.75rem;border-radius:6px;font-size:1rem;width:100%;max-width:300px">
-    </div>
+  <div class="content-section">
+    <h2>The Two Exceptions</h2>
+    <p>The 6-year bar does <strong>not</strong> apply if either of the following is true:</p>
+    <h3>Exception 1: 70% Plan</h3>
+    <p>The debtor paid at least 70% of allowed unsecured claims in the prior Chapter 13 case. This is straightforward - if your plan paid unsecured creditors 70 cents on the dollar or more, the 6-year bar does not apply.</p>
+    <h3>Exception 2: Good Faith + Best Effort</h3>
+    <p>The plan was proposed in <a href="https://chapter13plan.org/" title="good faith">good faith</a> AND was the debtor's best effort. This is a two-part test:</p>
+    <ul>
+      <li><strong><a href="https://chapter13plan.org/" title="good faith">Good faith</a></strong> - The plan was proposed with honest intent, not as a delay tactic</li>
+      <li><strong>Best effort</strong> - The debtor committed all disposable income to the plan (even if the percentage paid to unsecured creditors was low)</li>
+    </ul>
 
-    <div style="margin:1.5rem 0">
-      <label for="prior-chapter" style="display:block;color:var(--text-muted);font-size:0.9rem;margin-bottom:0.25rem">Prior case chapter:</label>
-      <select id="prior-chapter" style="background:#21262d;border:1px solid var(--border);color:var(--text);padding:0.5rem 0.75rem;border-radius:6px;font-size:1rem;width:100%;max-width:300px">
-        <option value="">Select...</option>
-        <option value="7"><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></option>
-        <option value="13"><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></option>
-      </select>
-    </div>
-
-    <div style="margin:1.5rem 0">
-      <label for="prior-discharge" style="display:block;color:var(--text-muted);font-size:0.9rem;margin-bottom:0.25rem">Did you receive a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>?</label>
-      <select id="prior-discharge" style="background:#21262d;border:1px solid var(--border);color:var(--text);padding:0.5rem 0.75rem;border-radius:6px;font-size:1rem;width:100%;max-width:300px">
-        <option value="">Select...</option>
-        <option value="yes">Yes - received discharge</option>
-        <option value="no">No - case was dismissed</option>
-      </select>
-    </div>
-
-    <button onclick="calculate()" style="background:#238636;color:#fff;border:none;padding:0.6rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.95rem;cursor:pointer;margin-top:0.5rem">Calculate</button>
-
-    <div id="results" style="display:none;margin-top:1.5rem">
-      <h3 style="color:#f0f6fc;margin-bottom:1rem">Your Earliest Eligible Dates</h3>
-      <div id="results-content"></div>
+    <div class="green-box">
+      <p><strong>Practical impact:</strong> Most Chapter 13 plans that are confirmed and completed will satisfy the good faith + best effort exception, because confirmation itself requires a finding that the plan was proposed in good faith and meets the best interests of creditors test.</p>
     </div>
   </div>
 
-  <script>
-  function calculate() {
-    var dateInput = document.getElementById('prior-date').value;
-    var chapter = document.getElementById('prior-chapter').value;
-    var discharged = document.getElementById('prior-discharge').value;
-    var results = document.getElementById('results');
-    var content = document.getElementById('results-content');
-
-    if (!dateInput || !chapter || !discharged) {
-      content.innerHTML = '<p style="color:var(--red)">Please fill in all fields.</p>';
-      results.style.display = 'block';
-      return;
-    }
-
-    var filed = new Date(dateInput + 'T00:00:00');
-    var today = new Date();
-    today.setHours(0,0,0,0);
-    var html = '';
-
-    if (discharged === 'no') {
-      html += '<div class="green-box"><p><strong>No discharge bar applies.</strong> Since your prior case was dismissed without a discharge, the discharge bars under Sections 727(a)(8), 727(a)(9), and 1328(f) do not apply.</p>';
-      html += '<p>However, you may face a <strong>180-day filing bar</strong> under <a href="https://109g.org">Section 109(g)</a> if the dismissal was due to willful failure to comply with court orders or a voluntary dismissal after a relief from stay motion.</p>';
-      var bar109g = new Date(filed);
-      bar109g.setDate(bar109g.getDate() + 180);
-      html += '<p><strong>109(g) bar expires:</strong> ' + bar109g.toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'}) + '</p></div>';
-    } else {
-      function addYears(d, y) { var r = new Date(d); r.setFullYear(r.getFullYear() + y); return r; }
-      function fmt(d) { return d.toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'}); }
-      function status(d) {
-        if (d <= today) return '<span style="color:var(--green);font-weight:600">ELIGIBLE NOW</span>';
-        return '<span style="color:var(--yellow);font-weight:600">' + fmt(d) + '</span>';
-      }
-
-      if (chapter === '7') {
-        var ch7date = addYears(filed, 8);
-        var ch13date = addYears(filed, 4);
-        html += '<table style="width:100%;border-collapse:collapse;font-size:0.95rem">';
-        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 7 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">727(a)(8) - 8 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch7date) + '</td></tr>';
-        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 13 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">1328(f)(1) - 4 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch13date) + '</td></tr>';
-        html += '</table>';
-      } else {
-        var ch7date = addYears(filed, 6);
-        var ch13date = addYears(filed, 2);
-        html += '<table style="width:100%;border-collapse:collapse;font-size:0.95rem">';
-        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 7 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">727(a)(9) - 6 years*</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch7date) + '</td></tr>';
-        html += '<tr><td style="padding:0.6rem;border-bottom:1px solid var(--border)"><strong>New Chapter 13 discharge</strong><br><span style="color:var(--text-muted);font-size:0.85rem">1328(f)(2) - 2 years</span></td><td style="padding:0.6rem;border-bottom:1px solid var(--border)">' + status(ch13date) + '</td></tr>';
-        html += '</table>';
-        html += '<p style="color:var(--text-muted);font-size:0.85rem;margin-top:0.75rem">*The 6-year bar under 727(a)(9) has exceptions: it does not apply if you paid 70%+ of unsecured claims, or if the plan was proposed in good faith and was your best effort. <a href="/chapter-13-to-7.html">Learn more</a>.</p>';
-      }
-    }
-
-    content.innerHTML = html;
-    results.style.display = 'block';
-  }
-  </script>
+  <div class="content-section">
+    <h2>When the 6-Year Bar Matters</h2>
+    <p>In practice, the 6-year bar mainly affects debtors whose prior Chapter 13 case resulted in a very low percentage payout to unsecured creditors (under 70%) and whose plans may not satisfy the good faith + best effort test. This includes:</p>
+    <ul>
+      <li>Plans that paid 0% to unsecured creditors but were confirmed in districts that allow such plans</li>
+      <li>Plans completed under <a href="https://bankruptcyhardship.org">hardship discharge</a> provisions where full effort may be questioned</li>
+      <li>Cases where the debtor's income increased significantly during the plan but payments were not modified</li>
+    </ul>
+  </div>
 
   <div class="content-section">
-    <h2>How This Calculator Works</h2>
-    <p>This calculator applies the discharge bar provisions of the Bankruptcy Code:</p>
-    <ul>
-      <li><strong><a href="https://727a8.com/" title="Section 727(a)(8)">Section 727(a)(8)</a></strong> - 8-year bar: <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> to Chapter 7</li>
-      <li><strong>Section 727(a)(9)</strong> - 6-year bar: <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> to Chapter 7 (with exceptions)</li>
-      <li><strong><a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a>(1)</strong> - 4-year bar: Chapter 7 to Chapter 13</li>
-      <li><strong><a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a>(2)</strong> - 2-year bar: Chapter 13 to Chapter 13</li>
-      <li><strong><a href="https://109g.org/" title="Section 109(g)">Section 109(g)</a></strong> - 180-day filing bar after certain dismissals</li>
-    </ul>
-    <p>All periods are measured from <strong>filing date to filing date</strong>. This calculator runs entirely in your browser - no data is sent to any server.</p>
+    <h2>Strategy: Ch.13 to Ch.13 May Be Better</h2>
+    <p>If the 6-year bar is a concern, remember that the <a href="/chapter-13-to-13.html">Chapter 13 to Chapter 13 bar is only 2 years</a>. Filing another Chapter 13 instead of Chapter 7 avoids the 727(a)(9) issue entirely.</p>
+    <p>Compare your options:</p>
+    <table>
+      <tr><th scope="col">Path</th><th scope="col">Wait Time</th><th scope="col">Exception Available?</th></tr>
+      <tr><td>Ch.13 &rarr; Ch.7</td><td>6 years</td><td>Yes (70% or good faith)</td></tr>
+      <tr><td style="color:var(--green)">Ch.13 &rarr; Ch.13</td><td style="color:var(--green)">2 years</td><td>No exceptions needed</td></tr>
+    </table>
   </div>
 
   <div class="cta-box">
-    <h3>Need More Detail?</h3>
-    <p>The full screener at 1328f.com checks additional factors including prior case lookups and district-specific data.</p>
+    <h3>Calculate Your Earliest Filing Date</h3>
     <div class="cta-links">
-      <a href="https://1328f.com?utm_source=dischargebar.org&utm_medium=referral&utm_campaign=btn-network" class="primary-btn">Full Discharge Screener</a>
-      <a href="/all-bars-chart.html" class="secondary-btn">All Bars Chart</a>
+      <a href="/calculator.html" class="primary-btn">Discharge Bar Calculator</a>
+      <a href="https://1328f.com?utm_source=dischargebar.org&utm_medium=referral&utm_campaign=btn-network" class="secondary-btn">Full Screener</a>
     </div>
   </div>
 
@@ -405,10 +302,10 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
     <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://1328f.com" style="color:#58a6ff">1328f.com</a> - Full discharge eligibility screener with case lookup</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://727a8.com" style="color:#58a6ff">727a8.com</a> - Chapter 7 discharge bar deep dive</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://727a8.com" style="color:#58a6ff">727a8.com</a> - <a href="https://727a8.com" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 727</a>(a) discharge bars in full</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/chapter-13-to-13.html" style="color:#58a6ff">Ch.13 to Ch.13</a> - The 2-year alternative under <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a>(2)</p>
     <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1328.org" style="color:#58a6ff">section1328.org</a> - Chapter 13 discharge rules</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://109g.org" style="color:#58a6ff">109g.org</a> - The 180-day filing bar</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://serialfiler.org" style="color:#58a6ff">serialfiler.org</a> - <a href="https://serialfiler.org/" title="serial filer">Serial filing</a> patterns and data</p>
   </div>
 
 
@@ -493,7 +390,7 @@
     <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
     <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=dischargebar.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=dischargebar.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=dischargebar.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

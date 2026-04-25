@@ -18,21 +18,21 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Debts That Survive Bankruptcy: The Complete List - Discharge Bar</title>
-<meta content="Not all debts can be eliminated in bankruptcy. Section 523(a) lists 19 categories of nondischargeable debts including student loans, tax d..." name="description"/>
-<link href="https://dischargebar.org/nondischargeable-debts.html" rel="canonical"/>
+<title>Chapter 13 Discharge: Completing Your Plan - Discharge Bar</title>
+<meta content="Learn about chapter 13 discharge: completing your plan | dischargebar.org in our free 2026 guide. Clear explanations, real data, and pract..." name="description"/>
+<link href="https://dischargebar.org/chapter-13-discharge.html" rel="canonical"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <!-- Open Graph -->
-<meta content="Debts That Survive Bankruptcy: The Complete List - Discharge Bar" property="og:title"/>
-<meta content="Not all debts can be eliminated in bankruptcy. Section 523(a) lists 19 categories of nondischargeable debts including student loans, tax d..." property="og:description"/>
+<meta content="Chapter 13 Discharge: Completing Your Plan - Discharge Bar" property="og:title"/>
+<meta content="Learn about chapter 13 discharge: completing your plan | dischargebar.org in our free 2026 guide. Clear explanations, real data, and pract..." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://dischargebar.org/nondischargeable-debts.html" property="og:url"/>
+<meta content="https://dischargebar.org/chapter-13-discharge.html" property="og:url"/>
 <meta content="https://dischargebar.org/og-image.png" property="og:image"/>
 <meta content="dischargebar.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Debts That Survive Bankruptcy: The Complete List - Discharge Bar" name="twitter:title"/>
-<meta content="Not all debts can be eliminated in bankruptcy. Section 523(a) lists 19 categories of nondischargeable debts including student loans, tax d..." name="twitter:description"/>
+<meta content="Chapter 13 Discharge: Completing Your Plan - Discharge Bar" name="twitter:title"/>
+<meta content="Learn about chapter 13 discharge: completing your plan | dischargebar.org in our free 2026 guide. Clear explanations, real data, and pract..." name="twitter:description"/>
 <meta content="https://dischargebar.org/og-image.png" name="twitter:image"/>
 <style>
   :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; }
@@ -108,9 +108,9 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Debts That Survive Bankruptcy: The Complete List",
-  "description": "Not all debts can be eliminated in bankruptcy. Section 523(a) lists 19 categories of nondischargeable debts including student loans, tax debts, child support, and fraud.",
-  "url": "https://dischargebar.org/nondischargeable-debts.html",
+  "name": "Chapter 13 Discharge: Completing Your Plan",
+  "description": "A Chapter 13 discharge is earned after completing 3 to 5 years of plan payments. Learn about the super discharge, hardship discharge, and what it takes to reach the finish line.",
+  "url": "https://dischargebar.org/chapter-13-discharge.html",
   "publisher": {
     "@type": "Organization",
     "name": "Open Bankruptcy Project",
@@ -122,7 +122,7 @@
 }
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://dischargebar.org/"},{"@type":"ListItem","position":2,"name":"Nondischargeable Debts","item":"https://dischargebar.org/nondischargeable-debts.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://dischargebar.org/"},{"@type":"ListItem","position":2,"name":"Chapter 13 Discharge","item":"https://dischargebar.org/chapter-13-discharge.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -131,7 +131,7 @@
     {
       "@type": "Article",
       "headline": "bankruptcydischarge.com",
-      "description": "Not all debts can be eliminated in bankruptcy. Section 523(a) lists 19 categories of nondischargeable debts including student loans, tax debts, child support, a",
+      "description": "A Chapter 13 discharge is earned after completing 3 to 5 years of plan payments. Learn about the super discharge, hardship discharge, and what it takes to reach",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -143,7 +143,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://dischargebar.org/nondischargeable-debts.html"
+      "mainEntityOfPage": "https://dischargebar.org/chapter-13-discharge.html"
     },
     {
       "@type": "HowTo",
@@ -152,52 +152,52 @@
         {
           "@type": "HowToStep",
           "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nDebts That Survive Bankruptcy: The Complete List"
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nChapter 13 Discharge: Completing Your Plan | dis"
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "text": "The tax return was actually filed more than 2 years before you filed bankruptcy"
+          "text": "Above-median income: Plan must be 60 months (5 years) unless all unsecured claims are paid in full sooner."
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "text": "The tax was assessed more than 240 days before you filed bankruptcy"
+          "text": "Complete all plan payments. Every payment must be made. One missed payment at the end can prevent your discharge."
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "text": "The return was not fraudulent and you did not willfully evade the tax"
+          "text": "Complete the debtor education course. Same requirement as Chapter 7 - you must complete an approved financial management course and file the certificate with the court."
         },
         {
           "@type": "HowToStep",
           "position": 5,
-          "text": "Section 523(a)(2)(A): Debts for money, property, or services obtained by false pretenses, false representation, or actual fraud (other than statements about financial condition). The creditor must pro"
+          "text": "Certify domestic support obligations are current. If you owe child support or alimony, you must certify that all post-petition domestic support obligations are paid in full. This is a strict requireme"
         },
         {
           "@type": "HowToStep",
           "position": 6,
-          "text": "Section 523(a)(2)(B): Debts incurred through a materially false written statement about the debtor's financial condition, made with intent to deceive, that the creditor reasonably relied upon. Example"
+          "text": "No prior discharge bar. Under Section 1328(f), you cannot receive a Chapter 13 discharge if you received a Chapter 7 discharge in a case filed within 4 years, or a Chapter 13 discharge in a case filed"
         },
         {
           "@type": "HowToStep",
           "position": 7,
-          "text": "Section 523(a)(2)(C): Creates a presumption of fraud for consumer debts over $725 to a single creditor for luxury goods or services within 90 days of filing, and cash advances over $1,000 within 70 da"
+          "text": "Not required to register as a sex offender. Section 1328(a) was amended to add this condition."
         },
         {
           "@type": "HowToStep",
           "position": 8,
-          "text": "Section 523(a)(2) - fraud and false financial statements"
+          "text": "The failure to complete payments is due to circumstances for which you should not justly be held accountable. Examples include serious illness, disability, job loss due to employer closure, or a natur"
         },
         {
           "@type": "HowToStep",
           "position": 9,
-          "text": "Section 523(a)(4) - fiduciary fraud, embezzlement, larceny"
+          "text": "Unsecured creditors have received at least as much as they would have received in a Chapter 7 liquidation. This is the \"best interests\" test - the same test applied at confirmation."
         },
         {
           "@type": "HowToStep",
           "position": 10,
-          "text": "Section 523(a)(6) - willful and malicious injury"
+          "text": "Modification of the plan is not practicable. You must show that no reasonable modification of the plan would allow you to complete it."
         }
       ]
     }
@@ -206,31 +206,10 @@
 </script>
 <link href="/sitemap.xml" rel="sitemap" type="application/xml"/>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What debts are discharged in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury."}}, {"@type": "Question", "name": "How long does it take to get a bankruptcy discharge?", "acceptedAnswer": {"@type": "Answer", "text": "In Chapter 7, the discharge typically arrives about 60 days after the 341 meeting, or roughly 3-4 months after filing. In Chapter 13, the discharge comes after completing all plan payments, which takes 3-5 years."}}, {"@type": "Question", "name": "Can a creditor object to my discharge?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Creditors can file an adversary proceeding arguing that a specific debt should not be discharged due to fraud, misrepresentation, or other exceptions under 11 U.S.C. Section 523. They can also object to your entire discharge under Section 727 for misconduct like hiding assets."}}, {"@type": "Question", "name": "What is the difference between a discharge and a dismissal?", "acceptedAnswer": {"@type": "Answer", "text": "A discharge eliminates your personal liability for qualifying debts permanently. A dismissal ends your bankruptcy case without eliminating any debts, as if you never filed. A dismissal may also impose a waiting period before you can file again."}}, {"@type": "Question", "name": "Can my bankruptcy discharge be revoked?", "acceptedAnswer": {"@type": "Answer", "text": "In rare cases, yes. A discharge can be revoked within one year if the debtor committed fraud, failed to disclose assets, or refused to obey a court order. Revocation requires a court proceeding initiated by the trustee, a creditor, or the U.S. Trustee."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How Chapter 13 Works?", "acceptedAnswer": {"@type": "Answer", "text": "In Chapter 13, you propose a repayment plan that pays some or all of your debts over a 3 to 5 year period. The length of the plan depends on your income: Below-median income: Plan can be as short as 36 months (3 years), but can extend up to 60 months."}}, {"@type": "Question", "name": "What Happens If You Cannot Complete the Plan?", "acceptedAnswer": {"@type": "Answer", "text": "If you fall behind on payments and do not qualify for a hardship discharge, you have several options: Plan modification. You can propose a modified plan with lower payments. The court must approve it, and the trustee and creditors can object. Modification is common and is often the best first step."}}]}
 </script>
-<link href="https://dischargebar.org/nondischargeable-debts.html" hreflang="en" rel="alternate"/>
-<link href="https://dischargebar.org/nondischargeable-debts-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://dischargebar.org/chapter-13-discharge.html" hreflang="en" rel="alternate"/>
+<link href="https://dischargebar.org/chapter-13-discharge-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <nav aria-label="Site navigation" role="navigation">
@@ -250,101 +229,123 @@
 <a class="skip-link" href="#main">Skip to main content</a>
 <header role="banner">
 <h1><a href="/" style="color: #f0f6fc; text-decoration: none;"><span class="accent">bankruptcy</span>discharge.com</a></h1>
-<p class="subtitle">Debts That Survive Bankruptcy - The Complete List</p>
+<p class="subtitle"><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> - Completing Your Plan</p>
 </header>
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://dischargebar.org/">Home</a><span class="separator">›</span><span>Nondischargeable Debts</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://dischargebar.org/">Home</a><span class="separator">›</span><span>Chapter 13 Discharge</span></nav>
 <article id="main" role="main">
-<h2>Not All Debts Can Be Discharged</h2>
-<p>A bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eliminates most debts, but not all of them. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a) of the Bankruptcy Code lists 19 specific categories of debts that are excepted from <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. These debts survive your bankruptcy and remain your legal obligation even after the discharge order enters.</p>
-<p>Understanding which debts are <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> is essential before you file. If most of your debt falls into <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> categories, bankruptcy may not provide the relief you need. If your <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> debts are small relative to your dischargeable debts, bankruptcy can still be transformative - eliminating the dischargeable debts frees up income to address the rest.</p>
-<h2>The Section 523(a) Categories</h2>
-<p>Here is every category of <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable debt</a> under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a), explained in plain English:</p>
-<h3>1. Certain Tax Debts - <a href="https://www.law.cornell.edu/uscode/text/11/523#a_1" rel="noopener" target="_blank">Section 523(a)(1)</a></h3>
-<p>Most tax debts are <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a>, but some older tax debts can be discharged if they meet all of the following conditions (often called the "3-year/2-year/240-day rules"):</p>
+<h2>Chapter 13 Discharge Overview</h2>
+<p>A <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> is not given - it is earned. Unlike <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, where the discharge enters automatically a few months after filing, Chapter 13 requires you to complete every payment under a court-approved <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a> that lasts 3 to 5 years. Only after you make the final payment and satisfy all other conditions does the court enter the discharge order.</p>
+<p>This is the fundamental trade-off of Chapter 13: you commit years of income in exchange for keeping your property (including nonexempt assets that would be liquidated in <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>), catching up on mortgage arrears, and - in some cases - discharging debts that Chapter 7 cannot touch.</p>
+<h2>How Chapter 13 Works</h2>
+<p>In Chapter 13, you propose a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a> that pays some or all of your debts over a 3 to 5 year period. The length of the plan depends on your income:</p>
 <ul>
-<li>The tax return was due more than 3 years before you filed bankruptcy</li>
-<li>The tax return was actually filed more than 2 years before you filed bankruptcy</li>
-<li>The tax was assessed more than 240 days before you filed bankruptcy</li>
-<li>The return was not fraudulent and you did not willfully evade the tax</li>
+<li><strong>Below-median income:</strong> Plan can be as short as 36 months (3 years), but can extend up to 60 months.</li>
+<li><strong>Above-median income:</strong> Plan must be 60 months (5 years) unless all unsecured claims are paid in full sooner.</li>
 </ul>
-<p>Tax debts that do not meet all four conditions survive bankruptcy. This includes most recent income taxes, payroll taxes (trust fund taxes are always <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a>), and taxes where no return was filed.</p>
-<h3>2. Debts from Fraud or False Pretenses - <a href="https://www.law.cornell.edu/uscode/text/11/523#a_2" rel="noopener" target="_blank">Section 523(a)(2)</a></h3>
-<p>Debts obtained through fraud, false pretenses, or materially false financial statements are not dischargeable. This includes two sub-categories:</p>
-<ul>
-<li><strong><a href="https://523a.org/" title="Section 523(a)">Section 523(a)</a>(2)(A):</strong> Debts for money, property, or services obtained by false pretenses, false representation, or actual fraud (other than statements about financial condition). The creditor must prove the debtor made a knowingly false representation that the creditor relied upon.</li>
-<li><strong><a href="https://523a.org/" title="Section 523(a)">Section 523(a)</a>(2)(B):</strong> Debts incurred through a materially false written statement about the debtor's financial condition, made with intent to deceive, that the creditor reasonably relied upon. Example: lying on a loan application about your income or assets.</li>
-<li><strong>Section 523(a)(2)(C):</strong> Creates a presumption of fraud for consumer debts over $725 to a single creditor for luxury goods or services within 90 days of filing, and cash advances over $1,000 within 70 days of filing.</li>
-</ul>
-<h3>3. Unlisted Debts - Section 523(a)(3)</h3>
-<p>Debts that you failed to list on your bankruptcy schedules are <a href="https://nondischargeable.org/" title="nondischargeable">nondischargeable</a> if the creditor did not have notice of the case in time to file a <a href="https://1328f.com/glossary.html#claim" title="proof of claim">proof of claim</a> or a complaint objecting to dischargeability. This is why accurate and complete schedules are critical. If you forget to list a creditor, that debt may survive.</p>
-<h3>4. Fiduciary Fraud, Embezzlement, and Larceny - Section 523(a)(4)</h3>
-<p>Debts for fraud or defalcation while acting in a fiduciary capacity, embezzlement, or larceny are not dischargeable. This applies to trustees, corporate officers, attorneys, and others who misuse funds held in trust.</p>
-<h3>5. Domestic Support Obligations - Section 523(a)(5)</h3>
-<p>Child support and alimony are never dischargeable in any chapter. This includes court-ordered support, separation agreement obligations, and support debts assigned to a government agency. Domestic support obligations are also priority debts under Section 507(a)(1), meaning they must be paid in full in any <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a>.</p>
-<div class="callout red">
-<h4>Absolute Bar</h4>
-<p>Domestic support obligations are the most strictly protected category. They cannot be discharged in <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, or any other chapter. They also cannot be avoided as liens. If you owe child support or alimony, bankruptcy will not help with those debts.</p>
-</div>
-<h3>6. Willful and Malicious Injury - Section 523(a)(6)</h3>
-<p>Debts for willful and malicious injury to another person or their property are not dischargeable in <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>. Note the "and" - the injury must be both willful (intentional) and malicious (wrongful and without just cause). Negligence is not enough.</p>
-<p>In <a href="/chapter-13-discharge.html">Chapter 13</a>, the super discharge narrows this exception: debts for willful and malicious injury to <em>property</em> can be discharged, but debts for willful and malicious injury to <em>persons</em> remain <a href="https://nondischargeable.org/" title="nondischargeable">nondischargeable</a>.</p>
-<h3>7. Government Fines and Penalties - Section 523(a)(7)</h3>
-<p>Fines, penalties, or forfeitures payable to a governmental unit are not dischargeable, unless the fine is compensation for actual pecuniary loss. This includes criminal fines, traffic tickets, regulatory penalties, and tax penalties.</p>
-<h3>8. Student Loans - <a href="https://www.law.cornell.edu/uscode/text/11/523#a_8" rel="noopener" target="_blank">Section 523(a)(8)</a></h3>
-<p><a href="https://bankruptcystudentloans.org/" title="student loans">Student loan debt</a> is not dischargeable unless you demonstrate "<a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a>" in a separate adversary proceeding within the bankruptcy case. Most courts use the three-part <a href="https://brunnertest.org/" title="Brunner test">Brunner test</a>: (1) you cannot maintain a minimal standard of living if forced to repay, (2) your <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship</a> is likely to persist for a significant period, and (3) you have made good-faith efforts to repay.</p>
-<p>This exception applies to both federal and private <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a>, and to educational benefit overpayments and scholarship obligations. The <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> standard is notoriously difficult to meet, though some courts have begun interpreting it more leniently in recent years.</p>
-<h3>9. DUI Debts - Section 523(a)(9)</h3>
-<p>Debts arising from death or personal injury caused by the debtor's operation of a motor vehicle, vessel, or aircraft while intoxicated are not dischargeable. This covers civil judgments from DUI accidents, not criminal fines (which are separately covered by <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(7)).</p>
-<h3>10. Prior Case Debts - Section 523(a)(10)</h3>
-<p>Debts that were or could have been listed in a prior bankruptcy case in which the debtor waived discharge, or in which discharge was denied under <a href="https://727a8.com" rel="noopener" target="_blank" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project">Section 727</a>(a)(2) through (7), remain nondischargeable in the new case.</p>
-<h3>11. Securities Fraud - Section 523(a)(11)</h3>
-<p>Debts arising from fraud or manipulation in connection with the purchase or sale of securities, or from a violation of securities laws, are not dischargeable.</p>
-<h3>12. Bank Fraud and Financial Institution Fraud - Section 523(a)(12)</h3>
-<p>Debts for malicious or reckless failure to fulfill a commitment by the debtor to a Federal depository institution, or arising from fraud, embezzlement, or theft at a financial institution.</p>
-<h3>13. Criminal Restitution - Section 523(a)(13)</h3>
-<p>Restitution obligations under federal criminal law (Title 18) are not dischargeable.</p>
-<h3>14. Debts Incurred to Pay Nondischargeable Taxes - Section 523(a)(14)</h3>
-<p>If you borrowed money (including credit card cash advances) to pay nondischargeable tax debts, the borrowed amount is also nondischargeable.</p>
-<h3>15. Property Settlements in Divorce - Section 523(a)(15)</h3>
-<p>Debts to a spouse, former spouse, or child arising from a separation agreement, divorce decree, or property settlement are not dischargeable in Chapter 7. However, they can be discharged in <a href="/chapter-13-discharge.html">Chapter 13</a> - this is one of the key super discharge advantages.</p>
-<h3>16. HOA and Condo Fees - Section 523(a)(16)</h3>
-<p>Post-petition fees owed to a homeowners association or condominium association for property where the debtor retains an interest are not dischargeable in Chapter 7, even if the debtor does not live there. Again, the <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> super discharge may cover these.</p>
-<h3>17. Court Fees - Section 523(a)(17)</h3>
-<p>Fees imposed by a court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses in connection with an imprisoned debtor's court actions.</p>
-<h3>18. Federal Tax Penalties on Tax-Advantaged Accounts - Section 523(a)(18)</h3>
-<p>Debts for federal tax owed on certain tax-advantaged retirement plans under Section 72(t) of the Internal Revenue Code.</p>
-<h3>19. Loans from Retirement Plans - Section 523(a)(19)</h3>
-<p>Debts arising from violations of federal or state securities laws, including judgments, consent orders, and settlement agreements related to securities violations.</p>
-<h2>How Nondischargeability Is Determined</h2>
-<p>Some exceptions are automatic - the debt is nondischargeable by operation of law without any action by the creditor. These include domestic support obligations, most tax debts, student loans, and DUI debts.</p>
-<p>Other exceptions require the creditor to file a complaint (called an "adversary proceeding") within 60 days after the first date set for the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>. If the creditor misses this deadline, the debt is discharged regardless. The exceptions that require a complaint include:</p>
-<ul>
-<li><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2) - fraud and false financial statements</li>
-<li><a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(4) - fiduciary fraud, embezzlement, larceny</li>
-<li>Section 523(a)(6) - willful and malicious injury</li>
-</ul>
-<div class="callout green">
-<h4>Deadline Matters</h4>
-<p>If a creditor believes a debt falls under Section 523(a)(2), (4), or (6), they must file a complaint before the deadline. If they do not, the debt is discharged. This is a strict deadline - courts rarely grant extensions.</p>
-</div>
-<h2>Chapter 7 vs. Chapter 13 Nondischargeable Debts</h2>
-<p>The Chapter 13 "super discharge" covers some debts that survive Chapter 7. If your nondischargeable debts include property damage from willful acts, divorce property settlements, or post-petition HOA fees, <a href="/chapter-13-discharge.html">Chapter 13</a> may provide broader relief. However, after <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> (2005), the gap between the two chapters narrowed significantly. Student loans, tax debts, child support, and fraud debts remain nondischargeable in both chapters.</p>
-<h2>Practical Guidance</h2>
+<p>You make monthly payments to the Chapter 13 trustee, who distributes the funds to your creditors according to the plan. Priority debts (taxes, domestic support obligations) must be paid in full. Secured debts (mortgage arrears, car loans) are typically paid through the plan. Unsecured creditors receive whatever is left - which may be as little as 0% in some districts.</p>
+<h2>Requirements for the Chapter 13 Discharge</h2>
+<p>To receive a discharge under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(a), you must satisfy all of the following:</p>
 <ol>
-<li><strong>Inventory your debts.</strong> Before filing, categorize every debt as dischargeable or potentially nondischargeable.</li>
-<li><strong>Be honest on your petition.</strong> List every debt, even ones you think are nondischargeable. Failing to list a debt creates a separate nondischargeability problem under Section 523(a)(3).</li>
-<li><strong>Do not run up debt before filing.</strong> Luxury purchases over $725 within 90 days or cash advances over $1,000 within 70 days are presumed fraudulent under Section 523(a)(2)(C).</li>
-<li><strong>Consider the super discharge.</strong> If you have debts that survive Chapter 7 but not Chapter 13, a 3-to-5-year plan may be worth it.</li>
-<li><strong>Consult an attorney.</strong> Nondischargeability analysis requires examining each debt individually against the statutory exceptions. This is not a do-it-yourself determination.</li>
+<li><strong>Complete all plan payments.</strong> Every payment must be made. One missed payment at the end can prevent your discharge.</li>
+<li><strong>Complete the debtor education course.</strong> Same requirement as Chapter 7 - you must complete an approved financial management course and file the certificate with the court.</li>
+<li><strong>Certify domestic support obligations are current.</strong> If you owe child support or alimony, you must certify that all post-petition domestic support obligations are paid in full. This is a strict requirement.</li>
+<li><strong>No prior discharge bar.</strong> Under <a href="https://1328f.com/explainer.html">Section 1328(f)</a>, you cannot receive a Chapter 13 discharge if you received a Chapter 7 discharge in a case filed within 4 years, or a Chapter 13 discharge in a case filed within 2 years, before the current case. Use the <a href="https://1328f.com/check.html">free screener</a> to check.</li>
+<li><strong>Not required to register as a sex offender.</strong> <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(a) was amended to add this condition.</li>
 </ol>
+<div class="callout">
+<h4>The Finish Line</h4>
+<p>After you make your final plan payment, your attorney (or you, if <a href="https://prosebankruptcy.org/" title="pro se">pro se</a>) must file the debtor education certificate (if not already filed) and the certification regarding domestic support obligations. The trustee files a final report. Once the court reviews everything and finds all conditions met, it enters the discharge order.</p>
+</div>
+<h2>The Chapter 13 Super Discharge</h2>
+<p>One of the most significant advantages of Chapter 13 is the "super discharge" - the <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(a) discharge covers certain debts that survive Chapter 7. Historically, the Chapter 13 super discharge was significantly broader than the Chapter 7 discharge. <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> (2005) narrowed the gap, but important differences remain:</p>
+<table>
+<thead>
+<tr>
+<th scope="col">Debt Type</th>
+<th scope="col">Chapter 7</th>
+<th scope="col">Chapter 13</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Willful and malicious property damage</td>
+<td>Not dischargeable</td>
+<td>Dischargeable (property damage only, not personal injury)</td>
+</tr>
+<tr>
+<td>Debts from property settlements in divorce</td>
+<td>Not dischargeable</td>
+<td>Dischargeable</td>
+</tr>
+<tr>
+<td>Post-petition HOA/condo fees</td>
+<td>Not dischargeable</td>
+<td>Dischargeable</td>
+</tr>
+<tr>
+<td>Debts from willful injury to persons</td>
+<td>Not dischargeable</td>
+<td>Not dischargeable</td>
+</tr>
+<tr>
+<td><a href="https://bankruptcystudentloans.org/" title="student loans">Student loans</a></td>
+<td>Not dischargeable (absent <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a>)</td>
+<td>Not dischargeable (absent <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a>)</td>
+</tr>
+<tr>
+<td>Domestic support obligations</td>
+<td>Not dischargeable</td>
+<td>Not dischargeable</td>
+</tr>
+</tbody>
+</table>
+<div class="callout green">
+<h4>Key Advantage</h4>
+<p>If you have debts from property damage, divorce property settlements, or other categories that survive Chapter 7 but not Chapter 13, the super discharge can be a powerful reason to choose Chapter 13 - even if you would otherwise qualify for Chapter 7.</p>
+</div>
+<h2>The Hardship Discharge - Section 1328(b)</h2>
+<p>If you cannot complete your plan payments due to circumstances beyond your control, you may qualify for a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(b). This is not easy to obtain. You must prove all three of the following:</p>
+<ol>
+<li><strong>The failure to complete payments is due to circumstances for which you should not justly be held accountable.</strong> Examples include serious illness, disability, job loss due to employer closure, or a natural disaster. Voluntary job changes or poor budgeting do not qualify.</li>
+<li><strong>Unsecured creditors have received at least as much as they would have received in a Chapter 7 liquidation.</strong> This is the "best interests" test - the same test applied at confirmation.</li>
+<li><strong>Modification of the plan is not practicable.</strong> You must show that no reasonable modification of the plan would allow you to complete it.</li>
+</ol>
+<div class="callout red">
+<h4>Important Limitation</h4>
+<p>The <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(b) is narrower than the regular <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(a) discharge. It does not include the "super discharge" provisions. Debts that would be <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> in Chapter 7 are also <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> in a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a>. In other words, a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a> provides roughly the same scope as a Chapter 7 discharge.</p>
+</div>
+<h2>What Happens If You Cannot Complete the Plan</h2>
+<p>If you fall behind on payments and do not qualify for a <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship discharge</a>, you have several options:</p>
+<ul>
+<li><strong>Plan modification.</strong> You can propose a modified plan with lower payments. The court must approve it, and the trustee and creditors can object. Modification is common and is often the best first step.</li>
+<li><strong>Conversion to Chapter 7.</strong> You can convert your case to Chapter 7, which may provide a faster discharge. However, conversion means your nonexempt assets become available for liquidation, and the Chapter 7 <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> may apply.</li>
+<li><strong>Voluntary <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>.</strong> You can ask the court to dismiss your case. <a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> ends the case without a discharge - all remaining debts survive. The <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> lifts. This is a last resort. Note that a <a href="https://bankruptcydismissed.com/">dismissed case</a> may affect your ability to <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a>.</li>
+</ul>
+<h2>The <a href="https://www.law.cornell.edu/uscode/text/11/1328#f_0" rel="noopener" target="_blank">Section 1328(f)</a> Discharge Bar</h2>
+<p><a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a> limits how often you can receive a Chapter 13 discharge:</p>
+<ul>
+<li><strong><a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a>(1):</strong> No Chapter 13 discharge if you received a Chapter 7, 11, or 12 discharge in a case filed within the 4 years preceding the current case filing.</li>
+<li><strong>Section 1328(f)(2):</strong> No Chapter 13 discharge if you received a prior Chapter 13 discharge in a case filed within the 2 years preceding the current case filing.</li>
+</ul>
+<p>Both bars are measured from filing date to filing date. You can still file Chapter 13 within these windows for the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> and structured repayment, but you will not receive a discharge at the end. This is sometimes called a "Chapter 20" strategy (Chapter 7 followed by Chapter 13 without a discharge). For details, see the <a href="https://1328f.com/explainer.html">Section 1328(f) explainer</a> or use the <a href="https://1328f.com/check.html">free screener</a>.</p>
+<h2>Chapter 13 Completion Rates</h2>
+<p>The reality of Chapter 13 is sobering. National data shows that only about 33% to 40% of Chapter 13 cases result in a discharge. The majority are dismissed before the debtor completes the plan. Common reasons for failure include:</p>
+<ul>
+<li>Job loss or income reduction</li>
+<li>Unexpected expenses (medical, car repair, home repair)</li>
+<li>Plan payments that were too high from the start</li>
+<li>Attorney withdrawal or disengagement</li>
+<li>Administrative failures (missed filings, unfiled tax returns)</li>
+</ul>
+<p>Completion rates vary significantly by district, attorney, and plan structure. If you are in a <a href="https://chapter13plan.org/" title="Chapter 13 plan">Chapter 13 plan</a>, stay in close communication with your attorney and the trustee. Request a plan modification early if your income drops - do not wait until you are months behind.</p>
 <div class="callout yellow">
 <h4>Not Legal Advice</h4>
-<p>This website provides general educational information about nondischargeable debts in bankruptcy. It is not legal advice. The application of Section 523(a) depends on specific facts and varies by jurisdiction. Consult a licensed bankruptcy attorney before making any filing decisions.</p>
+<p>This website provides general educational information about the Chapter 13 bankruptcy discharge. It is not legal advice. Bankruptcy law is complex, and individual circumstances vary. Consult a licensed bankruptcy attorney in your jurisdiction before making any filing decisions.</p>
 </div>
 </article>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
-<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy discharge and <a href="https://nondischargeable.org/" title="nondischargeable">nondischargeable</a> debts:</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/523" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 523</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - exceptions to discharge</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/524" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 524</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - <a href="https://dischargeinjunction.com/" title="discharge injunction">discharge injunction</a></span></li>
@@ -392,7 +393,7 @@
 <li><a href="https://bankruptcydischarge.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Discharge Guide</a></li>
 <li><a href="https://bankruptcydischarge.org" style="color:#58a6ff;text-decoration:none">Understanding Bankruptcy Discharge</a></li>
 <li><a href="https://524injunction.org" style="color:#58a6ff;text-decoration:none">524 Discharge Injunction</a></li>
-<li><a href="https://dischargeinjunction.com" style="color:#58a6ff;text-decoration:none">Discharge Injunction Explained</a></li>
+<li><a href="https://523a.org" style="color:#58a6ff;text-decoration:none">Section 523(a) Exceptions to Discharge</a></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -414,11 +415,11 @@
 <div class="links">
 <a href="/">Home</a>
 <a href="/chapter-7-discharge.html">Chapter 7</a>
-<a href="/chapter-13-discharge.html">Chapter 13</a>
+<a href="/nondischargeable-debts.html">Nondischargeable Debts</a>
 <a href="https://bankruptcyfreshstart.org?utm_source=dischargebar.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">After Discharge</a>
 <a href="#">Revocation</a>
 </div>
-<p style="margin-top: 1rem;">© 2026 dischargebar.org. Educational use. Not legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p style="margin-top: 1rem;">© 2026 dischargebar.org. Educational use. Not legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=dischargebar.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=dischargebar.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=dischargebar.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 <div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
@@ -449,8 +450,8 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=dischargebar.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=dischargebar.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=dischargebar.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=dischargebar.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
 </ul>
 </div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
