@@ -193,6 +193,9 @@
     .nav-links.open { display: flex; }
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
   }
+        .quick-answer { background: var(--surface); border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; padding: 16px 20px; margin-bottom: 24px; }
+        .quick-answer p { color: var(--text); margin: 0; font-size: 0.95rem; }
+
 </style>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a discharge bar?", "acceptedAnswer": {"@type": "Answer", "text": "A discharge bar is a federal timing rule that prevents a debtor from receiving a bankruptcy discharge based on a prior filing. Under Section 727(a)(8), no Chapter 7 discharge is available within 8 years of a prior Chapter 7 filing. Section 1328(f) imposes similar bars for Chapter 13."}}, {"@type": "Question", "name": "How long between bankruptcy discharges?", "acceptedAnswer": {"@type": "Answer", "text": "Chapter 7 to Chapter 7: 8 years. Chapter 7 to Chapter 13: 4 years. Chapter 13 to Chapter 13: 2 years. Chapter 13 to Chapter 7: 6 years (unless the prior Chapter 13 paid 100% of unsecured claims or 70% under a good-faith plan). All periods run from filing date to filing date."}}, {"@type": "Question", "name": "Can I get a Chapter 13 discharge after Chapter 7?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, if at least 4 years have passed from the filing date of the Chapter 7 case to the filing date of the Chapter 13 case. This is the so-called Chapter 20 strategy - using Chapter 7 to discharge unsecured debt, then Chapter 13 to restructure secured debt."}}]}
@@ -240,7 +243,7 @@
   </div>
 </nav>
 <div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
-  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - <span data-obp-c="domains">180+</span> free domains, <span data-obp-c="pages">44,000+</span> pages, $0 hosting
+  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - <span data-obp-c="domains">210+</span> free domains, <span data-obp-c="pages">44,000+</span> pages, $0 hosting
 </div>
 
 
@@ -256,6 +259,10 @@
 <main id="main-content">
 
   <div class="content-section">
+        <div class="quick-answer">
+            <p>A discharge bar is a federal timing rule that prevents a debtor from receiving a bankruptcy discharge based on a prior filing. Under Section 727(a)(8), no Chapter 7 discharge is available within 8 years of a prior Chapter 7 filing. Section 1328(f) imposes similar bars for Chapter 13.</p>
+        </div>
+
     <h2>About This Site</h2>
     <p>Federal law imposes strict time bars on how often you can receive a bankruptcy <a href="https://dischargebar.org/" title="discharge">discharge</a>. <a href="https://727a8.com" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 727</a>(a)(8) prevents a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> <a href="https://dischargebar.org/" title="discharge">discharge</a> if you received a prior <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> discharge within 8 years. <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328 discharge requirements</a>(f) prevents a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> discharge if you received a prior discharge within specified time periods - 4 years for a prior Chapter 7, and 2 years for a prior <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>.</p>
     <p>This site will provide a unified analysis of all discharge bar provisions, including the lesser-known combinations (Chapter 7 after Chapter 13, Chapter 13 after <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a>, etc.) and the critical date calculations that determine eligibility. We will explain why getting these calculations wrong can mean filing an entire case that ends without a discharge.</p>
