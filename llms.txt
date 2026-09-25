@@ -1,5 +1,5 @@
 # Bankruptcy Discharge Bars - When You Can't Get Relief [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > What blocks a bankruptcy discharge? Prior filings, fraud, concealment, and bad faith under Sections 727 and 1328. Check your eligibility - free 2026 guide.
 
@@ -7,18 +7,19 @@
 dischargebar.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- All Bankruptcy Discharge Bars Timing Chart: https://dischargebar.org/all-bars-chart.html
+- Bankruptcy Discharge Bars Chart [2026]: 727(a)(8), 1328(f), 109(g), 362(c)(3) Timing: https://dischargebar.org/all-bars-chart.html
 - Discharge Bar Calculator - When Can I File Again?: https://dischargebar.org/calculator.html
-- Chapter 13 Discharge: Completing Your Plan - Discharge Bar: https://dischargebar.org/chapter-13-discharge.html
-- Chapter 13 to Chapter 13 - The 2-Year Discharge Bar: https://dischargebar.org/chapter-13-to-13.html
-- Chapter 13 Then Chapter 7 - The 6-Year Discharge Bar: https://dischargebar.org/chapter-13-to-7.html
+- Chapter 13 Discharge [2026]: 11 USC 1328(a) Plan Completion and 1328(b) Hardship Discharge: https://dischargebar.org/chapter-13-discharge.html
+- Chapter 13 to Chapter 13 Refile [2026]: 11 USC 1328(f)(2) 2-Year Discharge Bar: https://dischargebar.org/chapter-13-to-13.html
+- Chapter 13 to Chapter 7 Refile [2026]: 11 USC 727(a)(9) 6-Year Bar Conditions: https://dischargebar.org/chapter-13-to-7.html
 - Chapter 7 Discharge: Timeline and What Gets Eliminated - Discharge Bar: https://dischargebar.org/chapter-7-discharge.html
-- Chapter 7 Then Chapter 13 - The 4-Year Discharge Bar: https://dischargebar.org/chapter-7-to-13.html
-- Chapter 7 to Chapter 7 - The 8-Year Discharge Bar: https://dischargebar.org/chapter-7-to-7.html
+- Chapter 7 to Chapter 13 Refile [2026]: 11 USC 1328(f)(1) 4-Year Discharge Bar (Chapter 20): https://dischargebar.org/chapter-7-to-13.html
+- Chapter 7 to Chapter 7 Refile [2026]: 11 USC 727(a)(8) 8-Year Discharge Bar: https://dischargebar.org/chapter-7-to-7.html
 - Discharge Bar FAQ - Waiting Periods Between Bankruptcy Filings: https://dischargebar.org/frequently-asked-questions.html
 - Bankruptcy Discharge Bars - When You Can't Get Relief: https://dischargebar.org/
 - Debts That Survive Bankruptcy: The Complete List - Discharge Bar: https://dischargebar.org/nondischargeable-debts.html
 - Privacy Policy: https://dischargebar.org/privacy.html
+- About dischargebar.org: https://dischargebar.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

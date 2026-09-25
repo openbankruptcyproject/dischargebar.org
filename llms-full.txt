@@ -1,6 +1,6 @@
 # dischargebar.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on dischargebar.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## All Bankruptcy Discharge Bars Timing Chart
+## Bankruptcy Discharge Bars Chart [2026]: 727(a)(8), 1328(f), 109(g), 362(c)(3) Timing
 Source: https://dischargebar.org/all-bars-chart.html
 
 Skip to main content
@@ -29,6 +29,8 @@ All Bankruptcy Discharge Bars Timing Chart
 Master comparison of every discharge bar and filing bar in the Bankruptcy Code
 
 Network › Discharge Bars › All Bars Chart
+
+There are four discharge bars: Section 727(a)(8) (8 years, Ch.7 to Ch.7), Section 727(a)(9) (6 years, Ch.13 to Ch.7), Section 1328(f)(1) (4 years, Ch.7 to Ch.13), and Section 1328(f)(2) (2 years, Ch.13 to Ch.13). There is also a 180-day filing bar under Section 109(g).
 
 Complete Discharge Bar Reference Table
 
@@ -224,26 +226,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-727a8.com
-section1328.org
-109g.org
-serialfiler.org
-automaticstay.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -257,7 +266,7 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -286,6 +295,8 @@ Discharge Bar Calculator
 When can you file again? Enter your prior case details to find out.
 
 Network › Discharge Bars › Calculator
+
+It depends on which chapter you filed and which chapter you want to file next. The waiting periods range from 2 years (Ch.13 to Ch.13) to 8 years (Ch.7 to Ch.7), measured from filing date to filing date.
 
 Calculate Your Earliest Eligible Date
 
@@ -417,24 +428,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Free Means Test Calculator -- meanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-727a8.com
-section1328.org
-109g.org
-serialfiler.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -448,7 +468,7 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -456,7 +476,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Discharge: Completing Your Plan - Discharge Bar
+## Chapter 13 Discharge [2026]: 11 USC 1328(a) Plan Completion and 1328(b) Hardship Discharge
 Source: https://dischargebar.org/chapter-13-discharge.html
 
 dischargebar.org
@@ -477,6 +497,8 @@ bankruptcydischarge.com
 Chapter 13 Discharge - Completing Your Plan
 
 Home›Chapter 13 Discharge
+
+In Chapter 13, you propose a repayment plan that pays some or all of your debts over a 3 to 5 year period. The length of the plan depends on your income: Below-median income: Plan can be as short as 36 months (3 years), but can extend up to 60 months.
 
 Chapter 13 Discharge Overview
 
@@ -663,31 +685,31 @@ Understanding Bankruptcy Discharge
 
 Section 523(a) Exceptions to Discharge
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Open Bankruptcy Project:
+Real information, no strings.
 
-1328f.com --
-1328f.org --
-automaticstay.org --
-341meeting.com --
-727a8.com --
-524injunction.com --
-filebankruptcyagain.com --
-bankruptcycost.com --
-bankruptcydismissed.com --
-bankruptcyexemptions.com
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Home
-Chapter 7
-Nondischargeable Debts
-After Discharge
-Revocation
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 dischargebar.org. Educational use. Not legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Privacy |
+Terms
 
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -717,7 +739,7 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 ---
 
-## Chapter 13 to Chapter 13 - The 2-Year Discharge Bar
+## Chapter 13 to Chapter 13 Refile [2026]: 11 USC 1328(f)(2) 2-Year Discharge Bar
 Source: https://dischargebar.org/chapter-13-to-13.html
 
 Skip to main content
@@ -738,6 +760,8 @@ Chapter 13 to Chapter 13 - The 2-Year Bar
 Section 1328(f)(2) - the shortest discharge bar in the Bankruptcy Code
 
 Network › Discharge Bars › Ch.13 to Ch.13
+
+You must wait 2 years from the filing date of the prior Chapter 13 case. This is the shortest discharge bar in bankruptcy law, under Section 1328(f)(2).
 
 The 1328(f)(2) Bar Explained
 
@@ -867,24 +891,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Free Means Test Calculator -- meanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-727a8.com
-section1328.org
-109g.org
-serialfiler.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -898,7 +931,7 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -906,7 +939,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 Then Chapter 7 - The 6-Year Discharge Bar
+## Chapter 13 to Chapter 7 Refile [2026]: 11 USC 727(a)(9) 6-Year Bar Conditions
 Source: https://dischargebar.org/chapter-13-to-7.html
 
 Skip to main content
@@ -927,6 +960,8 @@ Chapter 13 Then Chapter 7 - The 6-Year Bar
 Section 727(a)(9) - a bar with important exceptions
 
 Network › Discharge Bars › Ch.13 to Ch.7
+
+Yes, but Section 727(a)(9) imposes a 6-year bar unless you paid at least 70% of unsecured claims or the plan was proposed in good faith and was your best effort.
 
 The 727(a)(9) Bar Explained
 
@@ -1064,24 +1099,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Free Means Test Calculator -- meanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-727a8.com
-section1328.org
-109g.org
-serialfiler.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1095,7 +1139,7 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1124,6 +1168,8 @@ bankruptcydischarge.com
 Chapter 7 Discharge - Timeline and What Gets Eliminated
 
 Home›Chapter 7 Discharge
+
+The Chapter 7 discharge eliminates your personal obligation to pay most unsecured debts that existed on the date you filed.
 
 Chapter 7 Discharge Overview
 
@@ -1357,31 +1403,31 @@ Understanding Bankruptcy Discharge
 
 Section 523(a) Exceptions to Discharge
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Open Bankruptcy Project:
+Real information, no strings.
 
-1328f.com --
-1328f.org --
-automaticstay.org --
-341meeting.com --
-727a8.com --
-524injunction.com --
-filebankruptcyagain.com --
-bankruptcycost.com --
-bankruptcydismissed.com --
-bankruptcyexemptions.com
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Home
-Chapter 13
-Nondischargeable Debts
-After Discharge
-Revocation
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 dischargebar.org. Educational use. Not legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Privacy |
+Terms
 
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1411,7 +1457,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Chapter 7 Then Chapter 13 - The 4-Year Discharge Bar
+## Chapter 7 to Chapter 13 Refile [2026]: 11 USC 1328(f)(1) 4-Year Discharge Bar (Chapter 20)
 Source: https://dischargebar.org/chapter-7-to-13.html
 
 Skip to main content
@@ -1432,6 +1478,8 @@ Chapter 7 Then Chapter 13 - The 4-Year Bar
 Section 1328(f)(1) - often the best strategy for repeat filers
 
 Network › Discharge Bars › Ch.7 to Ch.13
+
+You can file Chapter 13 at any time, but to receive a discharge, the prior Chapter 7 must have been filed at least 4 years before the new Chapter 13 filing date, per Section 1328(f)(1).
 
 The 1328(f)(1) Bar Explained
 
@@ -1559,24 +1607,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-727a8.com
-section1328.org
-109g.org
-serialfiler.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1590,7 +1647,7 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1598,7 +1655,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 7 to Chapter 7 - The 8-Year Discharge Bar
+## Chapter 7 to Chapter 7 Refile [2026]: 11 USC 727(a)(8) 8-Year Discharge Bar
 Source: https://dischargebar.org/chapter-7-to-7.html
 
 Skip to main content
@@ -1619,6 +1676,8 @@ Chapter 7 to Chapter 7 - The 8-Year Bar
 Section 727(a)(8) - the longest discharge bar in the Bankruptcy Code
 
 Network › Discharge Bars › Ch.7 to Ch.7
+
+You must wait 8 years from the filing date (not the discharge date) of your prior Chapter 7 case before filing a new Chapter 7 case. This is under Section 727(a)(8) of the Bankruptcy Code.
 
 The 727(a)(8) Bar Explained
 
@@ -1754,24 +1813,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-727a8.com
-section1328.org
-109g.org
-serialfiler.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1785,7 +1853,7 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
@@ -1802,7 +1870,7 @@ dischargebar.org
 
 Home
 FAQ
-Espanol
+Español
 
 Discharge Bar FAQ - Waiting Periods Between Bankruptcy Filings
 
@@ -1870,6 +1938,8 @@ What should I do if I'm approaching the end of a discharge bar?
 
 Start preparing early. Gather financial documents, take credit counseling, and consult an attorney 2-3 months before the bar expires. This way you can file promptly on the eligibility date if needed.
 
+It depends on the chapter combination. Chapter 7 to Chapter 7: 8 years. Chapter 7 to Chapter 13: 4 years. Chapter 13 to Chapter 7: 6 years (with exceptions). Chapter 13 to Chapter 13: 2 years. All periods run from filing date to filing date.
+
 More Resources on This Site
 
 Chapter 7 to 7
@@ -1894,29 +1964,42 @@ Section 109(g) Filing Bar
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-openbankruptcyproject.org
-1328f.com
-chapter7vs13.org
-bankruptcymeanstest.org
-♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
 ## Bankruptcy Discharge Bars - When You Can't Get Relief [2026]
 Source: https://dischargebar.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -1931,13 +2014,15 @@ Ch.13 to Ch.13
 Ch.13 to Ch.7
 Calculator
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Bankruptcy Discharge Bars
 
 Combined 727(a)(8) and 1328(f) analysis - when you cannot file again
 
 Network › Bankruptcy Discharge Bars
+
+A discharge bar is a federal timing rule that prevents a debtor from receiving a bankruptcy discharge based on a prior filing. Under Section 727(a)(8), no Chapter 7 discharge is available within 8 years of a prior Chapter 7 filing. Section 1328(f) imposes similar bars for Chapter 13.
 
 About This Site
 
@@ -2185,56 +2270,33 @@ You're subscribed. Thank you!
 
 Privacy policy
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2248,11 +2310,91 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+How Long Between Bankruptcies
+Index
+States: Alabama
+States: Alaska
+States: Arizona
+States: Arkansas
+States: California
+States: Colorado
+States: Connecticut
+States: Delaware
+States: District Of Columbia
+States: Florida
+States: Georgia
+States: Hawaii
+States: Idaho
+States: Illinois
+States: Indiana
+States: Iowa
+States: Kansas
+States: Kentucky
+States: Louisiana
+States: Maine
+States: Massachusetts
+States: Michigan
+States: Minnesota
+States: Mississippi
+States: Missouri
+States: Montana
+States: Nebraska
+States: Nevada
+States: New Hampshire
+States: New Jersey
+States: New Mexico
+States: New York
+States: North Carolina
+States: North Dakota
+States: Ohio
+States: Oklahoma
+States: Oregon
+States: Pennsylvania
+States: Rhode Island
+States: South Carolina
+States: South Dakota
+States: Tennessee
+States: Texas
+States: Utah
+States: Vermont
+States: Washington
+States: West Virginia
+States: Wisconsin
+States: Wyoming
+Time Between Discharges
 
 ---
 
@@ -2277,6 +2419,8 @@ bankruptcydischarge.com
 Debts That Survive Bankruptcy - The Complete List
 
 Home›Nondischargeable Debts
+
+Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury.
 
 Not All Debts Can Be Discharged
 
@@ -2485,31 +2629,31 @@ Understanding Bankruptcy Discharge
 
 Discharge Injunction Explained
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Open Bankruptcy Project:
+Real information, no strings.
 
-1328f.com --
-1328f.org --
-automaticstay.org --
-341meeting.com --
-727a8.com --
-524injunction.com --
-filebankruptcyagain.com --
-bankruptcycost.com --
-bankruptcydismissed.com --
-bankruptcyexemptions.com
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Home
-Chapter 7
-Chapter 13
-After Discharge
-Revocation
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 dischargebar.org. Educational use. Not legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Privacy |
+Terms
 
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -2595,7 +2739,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -2605,6 +2749,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About dischargebar.org
+Source: https://dischargebar.org/about.html
+
+dischargebar.org
+
+Home
+About
+Privacy
+
+About dischargebar.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+dischargebar.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
